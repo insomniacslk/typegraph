@@ -7,7 +7,7 @@ all the declared types, and generating a digraph of the connections among types.
 
 An example of this program running on its own source code:
 
-![typegraph](res/graph.png)
+![typegraph](res/types.png)
 
 # Bugs?
 
